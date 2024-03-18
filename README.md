@@ -1,2 +1,2 @@
 # Web_Dev_Tutorials
-This repository hold web development learning material
+These are some useful resources for web devlpoment created by [Noah Pursell](https://github.com/noahapursell/Web-Development-Tutorial) and myself
